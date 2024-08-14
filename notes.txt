@@ -1,0 +1,27 @@
+12th August 2024
+
+-Don't remember sytax read the screen.
+-incremental difference in syntax : to identify difference in versions
+-when using cout << in cpp, each time we try to print something a new object is created which is stacked and then the stream gets printed.
+-c compiler was build on unix systems.
+-shell : outer layer of operating system.
+-we should write main function first
+-<> indicate something we have to provide
+-./a.out > ct.txt = output collected in output file : output redirection
+-output redirection and piping : read and write std input and output and error.
+-error redirection is also possible
+-cc points to gcc compiler. 
+-c string and c++ string are different
+-when c needs a c++ string, it wil convert c string to c++ string quietly.
+
+14th August 2024
+
+-Java : claims classes are good. Python and cpp are multi paridgm languages : code is OOPs or procedural.
+-Java has a virtual machine java compiler will convert java code to bytes and it will then to translated to machine specific code.
+-You can only have one public class.
+-Strongly typed language
+-Java : you can't return 1 or 0 becoz Java will communicate to virtual machine not shell.
+-Java programs coding in main function is good practice.
+
+-cpp when integer > 0 is returned : shell is signalled of an error.
+-c code : production level we need to handle exceptions.
